@@ -3,12 +3,13 @@
     "name": "dowhile_react_native",
     "slug": "dowhile_react_native",
     "version": "1.0.0",
+    "scheme": "dowhile_react_native",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "splash": {
       "image": "./assets/splash.png",
       "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
+      "backgroundColor": "#121214"
     },
     "updates": {
       "fallbackToCacheTimeout": 0
